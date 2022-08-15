@@ -13,4 +13,4 @@ hello ativer!hello git!
 hello ativer!hello git!
 hello ativer!hello git!
 hello ativer!hello git! master test
-hello ativer!hello gda!
+hello ativer!hello gda! hot-fix test
